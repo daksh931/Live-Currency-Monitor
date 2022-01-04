@@ -1,0 +1,2 @@
+# Live-Currency-Monitor
+I made a Desktop application which shows live price of different currencies. Using Tkinter we shaped our project into a desktop version (easy for user to use). Using APIs in our project continuous and automatically values of currencies are updating in our desktop application. Connecting application to Server for saving ,deleting and display data from server data in GUI (application). APIs - Fetching live Prices of currencies in real time from servers and then extracting only relevant data from servers.
